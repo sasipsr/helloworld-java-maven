@@ -42,12 +42,12 @@
     <repository>
         <id>sunday</id>
         <name>00321bca3728-releases</name>
-        <url>http://13.232.83.212:8081/repository/hosted/</url>
+        <url>http://localhost:8081/nexus/content/repositories/mph/</url>
     </repository>
     <snapshotRepository>
         <id>sunday</id>
         <name>00321bca3728-snapshots</name>
-        <url>http://13.232.83.212:8081/repository/snapshot/</url>
+        <url>http://localhost:8081/nexus/content/repositories/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
